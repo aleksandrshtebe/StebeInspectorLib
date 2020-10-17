@@ -1,0 +1,11 @@
+C:\Users\ИГРОВОЙ ПК\Desktop\с\InspectorLib\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\ИГРОВОЙ ПК\Desktop\с\InspectorLib\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\ИГРОВОЙ ПК\Desktop\с\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csprojAssemblyReference.cache
+C:\Users\ИГРОВОЙ ПК\Desktop\с\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\ИГРОВОЙ ПК\Desktop\с\InspectorLib\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\ИГРОВОЙ ПК\Desktop\с\InspectorLib\InspectorLib\obj\Debug\InspectorLib.pdb
+C:\Games\GithHub\SomovInspectorLib\InspectorLib\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Games\GithHub\SomovInspectorLib\InspectorLib\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Games\GithHub\SomovInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csprojResolveAssemblyReference.cache
+C:\Games\GithHub\SomovInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Games\GithHub\SomovInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.pdb
